@@ -3,3 +3,4 @@ In the next step, you will categorize countries based on sales volume and number
 
 
 
+![output](https://github.com/user-attachments/assets/e92047f8-2233-4bf7-af12-9ca7eab46755)
