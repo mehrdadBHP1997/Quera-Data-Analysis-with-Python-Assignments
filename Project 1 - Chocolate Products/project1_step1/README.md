@@ -1,3 +1,2 @@
-# __Hello__
+# Project 1 - Chocolate Products 
 
-Put your funny and useful python code here.
