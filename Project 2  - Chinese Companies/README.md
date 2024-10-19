@@ -1,3 +1,2 @@
-# __Hello__
+# Project 2 - Chinese Companies
 
-Put your funny and useful python code here.
