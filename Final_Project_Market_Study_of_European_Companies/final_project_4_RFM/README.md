@@ -19,4 +19,6 @@ These metrics represent important indicators of customer behavior. For example, 
 
 ![Screenshot 2024-10-20 095126](https://github.com/user-attachments/assets/81f49245-ad25-48cf-b271-f9e89471144c)
 
-##now we have RFM score :
+## now we have RFM score :
+
+![Screenshot 2024-10-20 095144](https://github.com/user-attachments/assets/41295078-d707-4001-8791-f1d5493a587a)
