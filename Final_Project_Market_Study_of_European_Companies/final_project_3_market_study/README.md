@@ -1,3 +1,3 @@
-# __Hello__
+# step 3
 
-Put your funny and useful python code here.
+In the next step, we will categorize countries based on sales volume and number of customers, and we will analyze sales locations and supply by creating a useful chart.
