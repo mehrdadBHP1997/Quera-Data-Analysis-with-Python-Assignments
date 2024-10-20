@@ -23,4 +23,4 @@ These metrics represent important indicators of customer behavior. For example, 
 
 ![Screenshot 2024-10-20 095144](https://github.com/user-attachments/assets/41295078-d707-4001-8791-f1d5493a587a)
 
-### finally we can can categorize our customer in Level ( Excellent , Very good , good and ... )
+### finally we  can categorize our customer in Level ( Excellent , Very good , good and ... )
