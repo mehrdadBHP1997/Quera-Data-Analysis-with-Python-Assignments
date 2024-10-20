@@ -10,15 +10,17 @@ Continuing with marketing activities, in this step, you will need to group custo
 
 These metrics represent important indicators of customer behavior. For example, the more recent a customer's purchase, the higher the likelihood that they will make another purchase. The more frequently a customer buys, the more satisfied they are likely to be, and the amount of revenue a customer generates for the company can distinguish them from other buyers.
 
- ## We categorize customers based on total purchase amounts and the above criteria into the following table:
+ ### We categorize customers based on total purchase amounts and the above criteria into the following table:
 
  
  ![Screenshot 2024-10-20 095031](https://github.com/user-attachments/assets/a72859e5-0f69-4a46-a50a-be42f4911943)
 
- ## After that, using the if condition, we display the scores corresponding to each of the criteria for all customers.
+ ### After that, using the if condition, we display the scores corresponding to each of the criteria for all customers.
 
 ![Screenshot 2024-10-20 095126](https://github.com/user-attachments/assets/81f49245-ad25-48cf-b271-f9e89471144c)
 
-## now we have RFM score :
+### now we have RFM score :
 
 ![Screenshot 2024-10-20 095144](https://github.com/user-attachments/assets/41295078-d707-4001-8791-f1d5493a587a)
+
+### finally we can can categorize our customer in Level ( Excellent , Very good , good and ... )
